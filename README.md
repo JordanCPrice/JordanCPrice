@@ -1,3 +1,6 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/JordanCPrice/JordanCPrice/assets/124534464/ea3b8ea4-fd02-49bd-95ec-c77669102228)
+
+
 <h1 align="center">Hi 👋, I'm Jordan Price</h1>
 <h3 align="center">A recent graduate looking to begin my career as a Software Engineer</h3>
 
